@@ -1,2 +1,3 @@
 my first file in Zebro
 I have made this changes and want to see how its getting updated in git remote repo
+NOw i am checking stash function 
